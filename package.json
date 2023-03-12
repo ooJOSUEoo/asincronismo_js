@@ -1,5 +1,5 @@
 {
-  "name": "callback",
+  "name": "asincronismo_js",
   "version": "1.0.0",
   "description": "",
   "main": "challenge.js",
@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "node-fetch": "^3.3.1"
   }
 }
